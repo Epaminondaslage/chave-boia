@@ -35,7 +35,7 @@ A chave-bóia é um dispositivo eletromecânico utilizado para acionar ou interr
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="img/boia_reversivel.jpg" style="width: 20%; height: auto;" />
     <img src="img/chave-boia-fixa.png" style="width: 20%; height: auto;" />
-    <img src="img/micro_boia.jpg" style="width: 20%; height: auto;" />
+    <img src="img/micro_boia.png" style="width: 20%; height: auto;" />
 </div>
 
 Existem duas ligações possíveis:
@@ -55,8 +55,8 @@ Existem duas ligações possíveis:
 - Sem água → abre → bomba desliga
 
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="img/boias.jpg" style="width: 20%; height: auto;" />
-    <img src="img/boia_reversivel_operacao.jpg" style="width: 20%; height: auto;" />
+    <img src="img/boias.jpg" style="width: 40%; height: auto;" />
+    <img src="img/boia_reversivel_operacao.jpg" style="width: 40%; height: auto;" />
 </div>
 
 ---
