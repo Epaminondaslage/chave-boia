@@ -56,7 +56,7 @@ Existem duas ligações possíveis:
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="img/boias.jpg" style="width: 40%; height: auto;" />
-    <img src="img/boia_reversivel_operacao.jpg" style="width: 40%; height: auto;" />
+    <img src="img/boia_reversivel_operacao.jpg" style="width: 50%; height: auto;" />
 </div>
 
 ---
