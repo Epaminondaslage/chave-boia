@@ -30,11 +30,12 @@ Esta aula prática tem como objetivo permitir ao estudante compreender, instalar
 O controle automático de nível de água é essencial em sistemas de abastecimento, garantindo segurança, economia e proteção da motobomba. Para que a bomba opere apenas quando houver água disponível na caixa d'água inferior/cisterna e necessidade de enchimento da caixa-d’água superior, utilizam-se duas chaves-bóia instaladas nos reservatórios. A chave-bóia superior interrompe o enchimento quando a caixa atinge o nível máximo, enquanto a chave-bóia inferior impede que a bomba funcione sem água. A associação dessas chaves permite um acionamento seguro, automático e confiável do sistema de bombeamento.
 
 ###  2.1. O que é uma Chave Boia?
-A chave boia é um dispositivo eletromecânico, ou eletrônico que liga ou desliga automaticamente uma motobomba conforme o nível da água. Ela evita queima da bomba, transbordamento e funcionamento em seco.
+A chave-bóia é um dispositivo eletromecânico utilizado para acionar ou interromper automaticamente o funcionamento de uma motobomba de acordo com o nível da água no reservatório. Sua função principal é proteger o sistema, evitando o funcionamento a seco, o transbordamento e a queima da bomba. Existem diversos modelos disponíveis no mercado, cada um adequado a diferentes aplicações e condições de instalação.
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="img/boia_reversivel.jpg" style="width: 20%; height: auto;" />
     <img src="img/chave-boia-fixa.png" style="width: 20%; height: auto;" />
+    <img src="img/micro_boia.jpg" style="width: 20%; height: auto;" />
 </div>
 
 Existem duas ligações possíveis:
@@ -53,7 +54,10 @@ Existem duas ligações possíveis:
 - Com água → fecha → bomba pode ligar  
 - Sem água → abre → bomba desliga
 
-<img src="img/boias.jpg" style="width: 30%; height: auto;" />
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="img/boias.jpg" style="width: 20%; height: auto;" />
+    <img src="img/boia_reversivel_operacao.jpg" style="width: 20%; height: auto;" />
+</div>
 
 ---
 
