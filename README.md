@@ -200,15 +200,19 @@ Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos
 - Painel elétrico opcional
 
 **3.5 Instalação Passo a Passo**
+
 1. Verificar a ligação da boia (inferior/superio) .
 2. Verificar o motor da motobomba (monofásio-p/220V ou trifásico-triângulo220V)
 3. Fixar a boia na caixa superior e ajustar comprimento do cabo.
 4. Instalar boia na cisterna/caixa inferior.
 5. Passar cabos em eletrodutos.
-6. Ligar boias conforme o diagrama.
+6. Ligar boias conforme o seus modelos.
+7. Montyar o diagrama de carga e comando.
 
 
 **3.5.1. Diagrama Comando**
+
+<img src="img/comando.jpg" style="width: 40%; height: auto;" />
 
 **3.5.2. Diagrama Carga**
 
@@ -216,9 +220,9 @@ Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos
     <img src="img/carga-1fase.jpg" style="width: 30%; height: auto;" />
     <img src="img/carga-3fase.jpg" style="width: 30%; height: auto;" />
 </div>
-**3.5.3. Diagrama Completo (2 Boias)**
 
-<img src="img/comando.jpg" style="width: 30%; height: auto;" />
+
+
 
 
 
