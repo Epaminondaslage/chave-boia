@@ -213,8 +213,8 @@ Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos
 **3.5.2. Diagrama Carga**
 
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="img/carga_1fase.jpg" style="width: 40%; height: auto;" />
-    <img src="img/carga_3fase.jpg" style="width: 50%; height: auto;" />
+    <img src="img/carga-1fase.jpg" style="width: 40%; height: auto;" />
+    <img src="img/carga-3fase.jpg" style="width: 50%; height: auto;" />
 </div>
 **3.5.3. Diagrama Completo (2 Boias)**
 
