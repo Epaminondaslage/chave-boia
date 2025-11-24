@@ -34,7 +34,7 @@ A chave boia é um dispositivo eletromecânico, ou eletrônico que liga ou desli
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="img/boia_reversivel.jpg" style="width: 20%; height: auto;" />
-    <img src="img/chave-boia-fixa.png." style="width: 20%; height: auto;" />
+    <img src="img/chave-boia-fixa.png" style="width: 20%; height: auto;" />
 </div>
 
 Existem dois tipos:
