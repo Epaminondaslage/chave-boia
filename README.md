@@ -32,7 +32,7 @@ O controle automático de nível de água é essencial em sistemas de abastecime
 ###  2.1. O que é uma Chave Boia?
 A chave boia é um dispositivo eletromecânico, ou eletrˆnico que liga ou desliga automaticamente uma motobomba conforme o nível da água. Ela evita queima da bomba, transbordamento e funcionamento em seco.
 
-<img src="img/boia-reversivel.jpg" style="width: 20%; height: auto;" />
+<img src="img/boia-reversivel.jpg" style="width: 30%; height: auto;" />
 
 Existem dois tipos:
 - **Nível superior (caixa d’água)** — desliga a bomba quando cheia.
