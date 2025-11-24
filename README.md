@@ -9,13 +9,33 @@
 ### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
 ### Guia de Aula – Chave-bóia e acionamento de motobomba 
 
-## Objetivo da Aula
+## 1. Objetivo da Aula
+Esta aula prática tem como objetivo permitir ao estudante compreender, instalar e testar um sistema de controle automático de nível de água utilizando **duas chaves-bóia** (superior e inferior) associadas ao acionamento de uma **motobomba elétrica**. Ao final da prática, o aluno deverá ser capaz de:
+
+- Identificar os componentes principais de um sistema de bombeamento (motobomba, reservatório superior, reservatório inferior, chaves-bóia).
+- Compreender o funcionamento dos contatos **NA** e **NF** das chaves-bóia e suas aplicações.
+- Realizar a ligação elétrica em série para controle automático de enchimento.
+- Testar o comportamento do sistema em condições reais de operação:
+  - caixa superior cheia,
+  - caixa superior vazia,
+  - caixa inferior cheia,
+  - caixa inferior vazia.
+- Verificar a proteção da bomba contra funcionamento a seco.
+- Interpretar diagramas elétricos de comando.
+- Diagnosticar possíveis falhas e propor correções.
 
 
-## 1. Introdução
+### 2. Introdução
 
-###  1. O que é uma Chave Boia?
+O controle automático de nível de água é essencial em sistemas de abastecimento, garantindo segurança, economia e proteção da motobomba. Para que a bomba opere apenas quando houver água disponível na caixa d'água inferior/cisterna e necessidade de enchimento da caixa-d’água superior, utilizam-se duas chaves-bóia instaladas nos reservatórios. A chave-bóia superior interrompe o enchimento quando a caixa atinge o nível máximo, enquanto a chave-bóia inferior impede que a bomba funcione sem água. A associação dessas chaves permite um acionamento seguro, automático e confiável do sistema de bombeamento.
+
+###  2.1. O que é uma Chave Boia?
 A chave boia é um dispositivo eletromecânico, ou eletrˆnico que liga ou desliga automaticamente uma motobomba conforme o nível da água. Ela evita queima da bomba, transbordamento e funcionamento em seco.
+
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="img/boia_reversivel.jpg" style="width: 20%; height: auto;" />
+    <img src="img/chave-boia-fixa.png.jpg" style="width: 20%; height: auto;" />
+</div>
 
 Existem dois tipos:
 - **Nível superior (caixa d’água)** — desliga a bomba quando cheia.
@@ -23,18 +43,21 @@ Existem dois tipos:
 
 ---
 
-##  2. Lógica das Boias
+###  2.2. Lógica das Boias
 
-### Caixa d’água superior — NF
+**Caixa d’água superior — NF**
 - Cheia → abre → bomba desliga  
 - Baixa → fecha → bomba liga
 
-### Cisterna/caixa inferior — NA
+**isterna/caixa inferior — NA**
 - Com água → fecha → bomba pode ligar  
 - Sem água → abre → bomba desliga
 
+<img src="img/boias.jpg" style="width: 30%; height: auto;" />
 
-## Chave-bóia para acionamento de motobomba
+---
+
+### 2.3. Chave-bóia para acionamento de motobomba
 
 As bombas hidráulicas utilizadas em residências ou edifícios têm como finalidade transferir água de uma cisterna ou reservatório inferior para uma caixa d’água superior. Para garantir **comodidade**, **economia de energia** e **proteção do motor elétrico**, a bomba deve interromper seu funcionamento automaticamente nas seguintes situações:
 
@@ -48,7 +71,7 @@ Para que essas condições sejam atendidas, é necessário utilizar dispositivos
 
 ---
 
-## Chave-Bóia com Contato Metálico 
+### 2.4. Chave-Bóia com Contato Metálico 
 
 Este tipo de chave-bóia é composto por:
 
@@ -57,7 +80,7 @@ Este tipo de chave-bóia é composto por:
 - Uma **bóia plástica** (c);
 - Um conjunto de **contatos elétricos** (d).
 
-### Funcionamento
+**Funcionamento**
 
 - À medida que o nível da água **desce**, a bóia se desloca até pressionar o limitador inferior.
 - Esse movimento empurra a haste para baixo.
@@ -65,19 +88,20 @@ Este tipo de chave-bóia é composto por:
 
 De forma semelhante, quando o nível da água **sobe**, a bóia pressiona o limitador superior, deslocando a haste para cima e novamente alterando a posição dos contatos elétricos conforme a condição operacional desejada.
 
+---
 
-## Chave-Bóia de Controle de Nível com Contato Reversível
+### 2.5. Chave-Bóia de Controle de Nível com Contato Reversível
 
 A chave-bóia de controle de nível com contato reversível é um dispositivo eletromecânico utilizado para monitorar e controlar o nível de líquidos em reservatórios. Seu funcionamento baseia-se na movimentação de uma bóia que, ao acompanhar a variação do nível do líquido, aciona internamente um conjunto de contatos elétricos configurados em **modo reversível** (NA/NF).
 
-### Características Principais
+**Características Principais**
 
 - **Bóia flutuante:** Elemento responsável por acompanhar o nível do líquido. Geralmente fabricada em material plástico resistente e impermeável.
 - **Cabo flexível:** Conecta a bóia ao ponto de instalação e abriga internamente o condutor elétrico e o mecanismo de comutação.
 - **Contato reversível (NA/NF):** O dispositivo possui um microinterruptor interno com um contato **normalmente aberto (NA)** e outro **normalmente fechado (NF)**, permitindo sua utilização tanto para esvaziar quanto para encher o reservatório.
 - **Peso regulador:** Mantém a bóia em posição adequada para o movimento de basculamento que aciona a comutação elétrica.
 
-### Funcionamento
+**Funcionamento**
 
 O funcionamento da chave-bóia ocorre pelo **basculamento** da bóia devido à variação do nível do líquido:
 
@@ -97,7 +121,7 @@ Esse comportamento permite duas aplicações distintas:
 - O contato **NA** é usado para acionar a bomba quando o reservatório está cheio.
 - Quando o nível diminui e a bóia retorna, o contato abre e **desliga a bomba**.
 
-### Resumo do Funcionamento
+**Resumo do Funcionamento**
 
 | Bóia     | Tipo de Contato | Estado que Fecha   | Finalidade                         |
 |----------|------------------|--------------------|-------------------------------------|
@@ -106,18 +130,66 @@ Esse comportamento permite duas aplicações distintas:
 
 ---
 
-##  5. Diagrama Simples (1 Boia)
+### 2.6. Motobomba
+A motobomba é um equipamento eletromecânico que realiza o bombeamento de líquidos por meio da conversão da energia elétrica em energia mecânica e, posteriormente, em energia hidráulica. O conjunto é composto essencialmente por um **motor elétrico** acoplado a um **conjunto hidráulico** (carcaça, rotor/impulsor e voluta).
+
+<img src="img/motobomba.png" style="width: 30%; height: auto;" />
+
+**Funcionamento de uma Motobomba**
+
+**Conversão de Energia no Motor Elétrico**
+Quando o motor é alimentado pela rede elétrica:
+- A corrente percorre os enrolamentos do estator.
+- Forma-se um campo eletromagnético.
+- Esse campo induz movimento no rotor, que passa a girar em alta rotação.
+O eixo do rotor é acoplado diretamente ao **impulsor** da bomba.
+
+<img src="img/motobomba-vistas.png" style="width: 30%; height: auto;" />
+
+**Funcionamento Hidráulico Interno**
+Ao girar, o impulsor exerce força centrífuga sobre a água:
+
+1. A água entra pela **sucção** (bocal de entrada) devido à depressão gerada no centro do impulsor.
+2. O impulsor acelera a água para a periferia da bomba.
+3. A água ganha energia de velocidade e pressão.
+4. A voluta ou carcaça converte parte dessa velocidade em **pressão**, direcionando o fluxo ao **bocal de recalque** (saída).
+
+Esse processo permite transferir a água do ponto de sucção (cisterna/caixa inferior) para o ponto de descarga (caixa superior).
+
+**Condições Necessárias para Operação**
+Para operar corretamente, a motobomba requer:
+- **Alimentação elétrica adequada** (tensão e corrente).
+- **Câmara hidráulica cheia de água** (evitar cavitação e funcionamento a seco).
+- **Sucção livre de ar** (vedação e engolimento de ar comprometem o fluxo).
+- **Altura manométrica compatível** com a capacidade da bomba.
+- **Motor refrigerado**, geralmente pelo próprio ar ambiente ou pelo fluxo de água.
+
+**Riscos e Proteções**
+A motobomba pode sofrer danos se operar em condições inadequadas, tais como:
+- Falta de água → superaquecimento e travamento.
+- Sobrecarga elétrica → queima do motor.
+- Pressão excessiva → desgaste prematuro dos componentes.
+
+Por isso, recomenda-se o uso de:
+- **Chaves-bóia** para monitoramento de nível,
+- **Relé térmico** para proteção contra sobrecarga,
+- **Válvula de retenção** para evitar retorno de água.
 
 ---
+##  3. Parte Prática
 
-##  6. Diagrama Completo (2 Boias)
+**⚠️ 3.1 Segurança**
+Desligue a energia antes de trabalhar. Use EPI e ferramentas isoladas.
 
+**3.2. Quando usar Contator?**
+Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos.
 
----
+**3.3 Testes**
+- Testar continuidade com multímetro.
+- Elevar/abaixar a boia e verificar mudança de estado.
+- Ligar o sistema e observar funcionamento.
 
-## Parte Prática
-
-##  2. Materiais Necessários
+**3.4 Materiais Necessários**
 - Motobomba
 - Chave(s) boia
 - Contator (recomendado acima de 1 CV)
@@ -125,31 +197,24 @@ Esse comportamento permite duas aplicações distintas:
 - Cabos elétricos
 - Painel elétrico opcional
 
----
-
-## ⚠️ 3. Segurança
-Desligue a energia antes de trabalhar. Use EPI e ferramentas isoladas.
-
-
-
-##  7. Instalação Passo a Passo
+**3.5 Instalação Passo a Passo**
 1. Verificar tensão da boia (127/220V).
-2. Fixar a boia na caixa e ajustar comprimento do cabo.
-3. Instalar boia na cisterna (opcional).
+2. Fixar a boia na caixa superior e ajustar comprimento do cabo.
+3. Instalar boia na cisterna/caixa inferior.
 4. Passar cabos em eletrodutos.
 5. Ligar boias conforme o diagrama.
 
----
 
-##  8. Quando usar Contator?
-Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos.
+**3.5.1 Diagrama Simples (1 Boia)**
 
----
 
-##  9. Testes
-- Testar continuidade com multímetro.
-- Elevar/abaixar a boia e verificar mudança de estado.
-- Ligar o sistema e observar funcionamento.
+
+**3.5.2. Diagrama Completo (2 Boias)**
+
+
+
+
+
 
 ---
 
