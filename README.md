@@ -37,7 +37,7 @@ A chave boia é um dispositivo eletromecânico, ou eletrônico que liga ou desli
     <img src="img/chave-boia-fixa.png" style="width: 20%; height: auto;" />
 </div>
 
-Existem dois tipos:
+Existem duas ligações possíveis:
 - **Nível superior (caixa d’água)** — desliga a bomba quando cheia.
 - **Nível inferior (cisterna/poço)** — impede funcionamento sem água.
 
