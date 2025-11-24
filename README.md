@@ -46,23 +46,6 @@ Existem duas ligações possíveis:
 
 ###  2.2. Lógica das Boias
 
-**Caixa d’água superior — NF**
-- Cheia → abre → bomba desliga  
-- Baixa → fecha → bomba liga
-
-**isterna/caixa inferior — NA**
-- Com água → fecha → bomba pode ligar  
-- Sem água → abre → bomba desliga
-
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="img/boias.jpg" style="width: 40%; height: auto;" />
-    <img src="img/boia_reversivel_operacao.jpg" style="width: 50%; height: auto;" />
-</div>
-
----
-
-### 2.3. Chave-bóia para acionamento de motobomba
-
 As bombas hidráulicas utilizadas em residências ou edifícios têm como finalidade transferir água de uma cisterna ou reservatório inferior para uma caixa d’água superior. Para garantir **comodidade**, **economia de energia** e **proteção do motor elétrico**, a bomba deve interromper seu funcionamento automaticamente nas seguintes situações:
 
 - Quando a caixa d’água superior estiver **cheia**;
@@ -73,9 +56,22 @@ Para que essas condições sejam atendidas, é necessário utilizar dispositivos
 - O reservatório superior estiver **vazio**, e
 - O reservatório inferior estiver **cheio**.
 
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="img/boias.jpg" style="width: 40%; height: auto;" />
+    <img src="img/boia_reversivel_operacao.jpg" style="width: 50%; height: auto;" />
+</div>
+
+**Caixa d’água superior — NF**
+- Cheia → abre → bomba desliga  
+- Baixa → fecha → bomba liga
+
+**isterna/caixa inferior — NA**
+- Com água → fecha → bomba pode ligar  
+- Sem água → abre → bomba desliga
+
 ---
 
-### 2.4. Chave-Bóia com Contato Metálico 
+### 2.3. Chave-Bóia com Contato Metálico 
 
 Este tipo de chave-bóia é composto por:
 
@@ -94,9 +90,11 @@ De forma semelhante, quando o nível da água **sobe**, a bóia pressiona o limi
 
 ---
 
-### 2.5. Chave-Bóia de Controle de Nível com Contato Reversível
+### 2.4. Chave-Bóia de Controle de Nível com Contato Reversível
 
 A chave-bóia de controle de nível com contato reversível é um dispositivo eletromecânico utilizado para monitorar e controlar o nível de líquidos em reservatórios. Seu funcionamento baseia-se na movimentação de uma bóia que, ao acompanhar a variação do nível do líquido, aciona internamente um conjunto de contatos elétricos configurados em **modo reversível** (NA/NF).
+
+<img src="img/ligacao-boia-reversivel.jpg" style="width: 40%; height: auto;" />
 
 **Características Principais**
 
@@ -134,7 +132,7 @@ Esse comportamento permite duas aplicações distintas:
 
 ---
 
-### 2.6. Motobomba
+### 2.5. Motobomba
 A motobomba é um equipamento eletromecânico que realiza o bombeamento de líquidos por meio da conversão da energia elétrica em energia mecânica e, posteriormente, em energia hidráulica. O conjunto é composto essencialmente por um **motor elétrico** acoplado a um **conjunto hidráulico** (carcaça, rotor/impulsor e voluta).
 
 <img src="img/motobomba.png" style="width: 30%; height: auto;" />
@@ -185,7 +183,7 @@ Por isso, recomenda-se o uso de:
 **⚠️ 3.1 Segurança**
 Desligue a energia antes de trabalhar. Use EPI e ferramentas isoladas.
 
-**3.2. Quando usar Contator?**
+**3.2. Quando usar Contator ?**
 Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos.
 
 **3.3 Testes**
@@ -202,20 +200,25 @@ Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos
 - Painel elétrico opcional
 
 **3.5 Instalação Passo a Passo**
-1. Verificar tensão da boia (127/220V).
-2. Fixar a boia na caixa superior e ajustar comprimento do cabo.
-3. Instalar boia na cisterna/caixa inferior.
-4. Passar cabos em eletrodutos.
-5. Ligar boias conforme o diagrama.
+1. Verificar a ligação da boia (inferior/superio) .
+2. Verificar o motor da motobomba (monofásio-p/220V ou trifásico-triângulo220V)
+3. Fixar a boia na caixa superior e ajustar comprimento do cabo.
+4. Instalar boia na cisterna/caixa inferior.
+5. Passar cabos em eletrodutos.
+6. Ligar boias conforme o diagrama.
 
 
-**3.5.1 Diagrama Simples (1 Boia)**
+**3.5.1. Diagrama Comando**
 
+**3.5.2. Diagrama Carga**
 
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="img/carga_1fase.jpg" style="width: 40%; height: auto;" />
+    <img src="img/carga_3fase.jpg" style="width: 50%; height: auto;" />
+</div>
+**3.5.3. Diagrama Completo (2 Boias)**
 
-**3.5.2. Diagrama Completo (2 Boias)**
-
-
+<img src="img/comando.jpg" style="width: 40%; height: auto;" />
 
 
 
