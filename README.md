@@ -212,7 +212,7 @@ Recomendado para bombas acima de 1 CV, instalações trifásicas ou cabos longos
 
 **3.5.1. Diagrama Comando**
 
-<img src="img/comando.jpg" style="width: 40%; height: auto;" />
+<img src="img/comando.jpg" style="width: 50%; height: auto;" />
 
 **3.5.2. Diagrama Carga**
 
