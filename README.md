@@ -32,7 +32,7 @@ O controle automático de nível de água é essencial em sistemas de abastecime
 ###  2.1. O que é uma Chave Boia?
 A chave boia é um dispositivo eletromecânico, ou eletrˆnico que liga ou desliga automaticamente uma motobomba conforme o nível da água. Ela evita queima da bomba, transbordamento e funcionamento em seco.
 
-<img src="img/boia-reversivel.jpg" style="width: 30%; height: auto;" />
+<img src="img/boia_reversivel.jpg" style="width: 30%; height: auto;" />
 
 Existem dois tipos:
 - **Nível superior (caixa d’água)** — desliga a bomba quando cheia.
@@ -50,7 +50,7 @@ Existem dois tipos:
 - Com água → fecha → bomba pode ligar  
 - Sem água → abre → bomba desliga
 
-<img src="img/boias.jpg" style="width: 20%; height: auto;"/ >
+<img src="img/boias.jpg" style="width: 30%; height: auto;" />
 
 ---
 
@@ -130,8 +130,7 @@ Esse comportamento permite duas aplicações distintas:
 ### 2.6. Motobomba
 A motobomba é um equipamento eletromecânico que realiza o bombeamento de líquidos por meio da conversão da energia elétrica em energia mecânica e, posteriormente, em energia hidráulica. O conjunto é composto essencialmente por um **motor elétrico** acoplado a um **conjunto hidráulico** (carcaça, rotor/impulsor e voluta).
 
-<img src="img/motobomba.png" style="width: 30%; height: auto;"/ >
-
+<img src="img/motobomba.png" style="width: 30%; height: auto;" />
 
 **Funcionamento de uma Motobomba**
 
@@ -142,7 +141,7 @@ Quando o motor é alimentado pela rede elétrica:
 - Esse campo induz movimento no rotor, que passa a girar em alta rotação.
 O eixo do rotor é acoplado diretamente ao **impulsor** da bomba.
 
-<img src="img/motobomba-vistas.png" style="width: 30%; height: auto;"/ >
+<img src="img/motobomba-vistas.png" style="width: 30%; height: auto;" />
 
 **Funcionamento Hidráulico Interno**
 Ao girar, o impulsor exerce força centrífuga sobre a água:
