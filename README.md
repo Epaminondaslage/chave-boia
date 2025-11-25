@@ -166,7 +166,7 @@ Para operar corretamente, a motobomba requer:
 - **Altura manométrica compatível** com a capacidade da bomba.
 - **Motor refrigerado**, geralmente pelo próprio ar ambiente ou pelo fluxo de água.
 
-<img src="img/instalacao.jpg" style="width: 100%; height: auto;" />
+<img src="img/instalacao.jpg" style="width: 50%; height: auto;" />
 
 **Riscos e Proteções**
 A motobomba pode sofrer danos se operar em condições inadequadas, tais como:
