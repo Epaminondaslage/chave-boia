@@ -24,6 +24,8 @@ Esta aula prática tem como objetivo permitir ao estudante compreender, instalar
 - Interpretar diagramas elétricos de comando.
 - Diagnosticar possíveis falhas e propor correções.
 
+<img src="img/chave-boia-didatica.jpg" style="width: 40%; height: auto;" />
+
 
 ### 2. Introdução
 
