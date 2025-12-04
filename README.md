@@ -6,7 +6,7 @@
 ### **Departamento de Engenharia Elétrica - CEFET-MG**  
 ### **Coordenação do Curso de Eletrotécnica**  
 
-### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+###  Disciplina: **PLIEP - Prática de Laboratório de Instalações Eletricas Prediais**
 ### Guia de Aula – Chave-bóia e acionamento de motobomba 
 
 ## 1. Objetivo da Aula
